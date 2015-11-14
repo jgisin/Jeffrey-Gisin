@@ -135,3 +135,4 @@ Date: 2015-11-16T19:50:35Z, Message: Minor Fixes
 Date: 2015-11-16T19:38:24Z, Message: Homepage 
 Date: 2015-11-14T21:45:39Z, Message: Refactored to new RSpec 3 syntax 
 Date: 2015-11-14T21:44:43Z, Message: Refactored to new RSpec 3 syntax 
+Date: 2015-11-14T21:43:47Z, Message: Refactored to new RSpec 3 syntax 
