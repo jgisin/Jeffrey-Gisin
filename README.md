@@ -132,3 +132,4 @@ Date: 2015-11-17T21:34:27Z, Message: Cover and user image
 Date: 2015-11-17T21:03:23Z, Message: Username, nav optimization 
 Date: 2015-11-17T18:27:29Z, Message: Logo and Navbar 
 Date: 2015-11-16T19:50:35Z, Message: Minor Fixes 
+Date: 2015-11-16T19:38:24Z, Message: Homepage 
