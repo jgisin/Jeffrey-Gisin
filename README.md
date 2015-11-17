@@ -130,3 +130,4 @@ Date: 2015-11-18T04:35:50Z, Message: Reconfigured, not mobile friendly
 Date: 2015-11-18T02:01:42Z, Message: Edit Profile 
 Date: 2015-11-17T21:34:27Z, Message: Cover and user image 
 Date: 2015-11-17T21:03:23Z, Message: Username, nav optimization 
+Date: 2015-11-17T18:27:29Z, Message: Logo and Navbar 
