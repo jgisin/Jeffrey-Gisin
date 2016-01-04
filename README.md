@@ -119,3 +119,4 @@ Date: 2016-01-05T02:00:56Z, Message: Kinda working hanoi
 Date: 2016-01-05T01:01:10Z, Message: blackjack start 
 Date: 2016-01-04T23:28:49Z, Message: Working 2-player RPSE Game 
 Date: 2016-01-04T22:03:37Z, Message: RPSE init 
+Date: 2016-01-04T19:38:43Z, Message: Completed inject method 
