@@ -121,3 +121,4 @@ Date: 2016-01-04T23:28:49Z, Message: Working 2-player RPSE Game
 Date: 2016-01-04T22:03:37Z, Message: RPSE init 
 Date: 2016-01-04T19:38:43Z, Message: Completed inject method 
 Date: 2016-01-04T18:35:19Z, Message: my_map completed - warmup3 
+Date: 2016-01-04T18:17:48Z, Message: My_each finished - warmup3 
