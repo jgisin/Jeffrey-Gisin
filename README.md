@@ -111,3 +111,4 @@ Date: 2016-01-06T16:39:48Z, Message: Created Gem rockpapsciss
 Date: 2016-01-06T02:08:07Z, Message: AI broke our game 
 Date: 2016-01-06T00:30:48Z, Message: Logic - evaluate color works 
 Date: 2016-01-05T22:21:11Z, Message: Player, human, computer classes with board selection 
+Date: 2016-01-05T19:13:23Z, Message: Started Tweeter 
