@@ -116,3 +116,4 @@ Date: 2016-01-05T19:03:36Z, Message: SUCCESS recursive deep_dup finished
 Date: 2016-01-05T18:19:31Z, Message: Started Recursive Dup 
 Date: 2016-01-05T17:54:11Z, Message: Working on deep dup - Jeff and Julia 
 Date: 2016-01-05T02:00:56Z, Message: Kinda working hanoi 
+Date: 2016-01-05T01:01:10Z, Message: blackjack start 
