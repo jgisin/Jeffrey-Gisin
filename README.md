@@ -108,3 +108,4 @@ Date: 2016-01-06T18:03:21Z, Message: Pseudocode for connect four
 Date: 2016-01-06T17:00:50Z, Message: Updated gemspec 
 Date: 2016-01-06T16:52:05Z, Message: Added rockpapsciss game to gem 
 Date: 2016-01-06T16:39:48Z, Message: Created Gem rockpapsciss 
+Date: 2016-01-06T02:08:07Z, Message: AI broke our game 
