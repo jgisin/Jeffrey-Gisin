@@ -104,3 +104,4 @@ Date: 2016-01-06T23:27:33Z, Message: Updated push from Jeff
 Date: 2016-01-06T22:29:01Z, Message: Vertical Win check working 
 Date: 2016-01-06T21:30:19Z, Message: After lunch commit 
 Date: 2016-01-06T19:08:23Z, Message: Working on basic render of game 
+Date: 2016-01-06T18:03:21Z, Message: Pseudocode for connect four 
