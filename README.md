@@ -106,3 +106,4 @@ Date: 2016-01-06T21:30:19Z, Message: After lunch commit
 Date: 2016-01-06T19:08:23Z, Message: Working on basic render of game 
 Date: 2016-01-06T18:03:21Z, Message: Pseudocode for connect four 
 Date: 2016-01-06T17:00:50Z, Message: Updated gemspec 
+Date: 2016-01-06T16:52:05Z, Message: Added rockpapsciss game to gem 
