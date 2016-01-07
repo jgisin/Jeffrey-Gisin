@@ -88,3 +88,4 @@ Date: 2016-01-10T05:34:17Z, Message: Recursive Factorial
 Date: 2016-01-08T19:34:26Z, Message: Finished viking tests 
 Date: 2016-01-08T17:12:05Z, Message: finished first warmup exercise 
 Date: 2016-01-07T17:52:42Z, Message: Finished 
+Date: 2016-01-07T17:11:41Z, Message: Done through quotient 
