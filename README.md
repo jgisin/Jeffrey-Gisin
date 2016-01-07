@@ -93,3 +93,4 @@ Date: 2016-01-07T16:42:58Z, Message: Names on ReADME
 Date: 2016-01-08T00:34:30Z, Message: Working on board_spec 
 Date: 2016-01-07T22:49:57Z, Message: Added human_spec 
 Date: 2016-01-07T22:47:24Z, Message: Player class tests 
+Date: 2016-01-07T19:55:19Z, Message: Color Prompt and Opponent Prompt tests 
