@@ -97,3 +97,4 @@ Date: 2016-01-07T19:55:19Z, Message: Color Prompt and Opponent Prompt tests
 Date: 2016-01-07T18:35:57Z, Message: Writing pseudo test 
 Date: 2016-01-07T02:43:11Z, Message: Erik's changes 
 Date: 2016-01-07T01:30:33Z, Message: Working on Horizontal AI 
+Date: 2016-01-07T01:30:11Z, Message: Working on Horizontal AI 
