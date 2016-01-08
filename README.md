@@ -36,3 +36,4 @@ Date: 2016-01-09T00:02:22Z, Message: fixed error
 Date: 2016-01-09T00:00:15Z, Message: dictionary test 
 Date: 2016-01-08T23:49:35Z, Message: Added output tests 
 Date: 2016-01-08T23:18:35Z, Message: exception testing 
+Date: 2016-01-08T23:13:57Z, Message: Added spec 
