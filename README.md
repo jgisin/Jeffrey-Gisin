@@ -86,3 +86,4 @@ Date: 2016-01-10T05:54:46Z, Message: sumdig recursive and iterative
 Date: 2016-01-10T05:39:38Z, Message: Iterative Factorial 
 Date: 2016-01-10T05:34:17Z, Message: Recursive Factorial 
 Date: 2016-01-08T19:34:26Z, Message: Finished viking tests 
+Date: 2016-01-08T17:12:05Z, Message: finished first warmup exercise 
