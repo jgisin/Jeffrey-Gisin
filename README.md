@@ -90,3 +90,4 @@ Date: 2016-01-08T17:12:05Z, Message: finished first warmup exercise
 Date: 2016-01-07T17:52:42Z, Message: Finished 
 Date: 2016-01-07T17:11:41Z, Message: Done through quotient 
 Date: 2016-01-07T16:42:58Z, Message: Names on ReADME 
+Date: 2016-01-08T00:34:30Z, Message: Working on board_spec 
