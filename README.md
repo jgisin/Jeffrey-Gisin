@@ -23,3 +23,4 @@ Date: 2016-01-09T00:54:50Z, Message: further testing
 Date: 2016-01-09T00:52:36Z, Message: further testing 
 Date: 2016-01-09T00:49:07Z, Message: update for file 
 Date: 2016-01-09T00:46:11Z, Message: file double instead of let 
+Date: 2016-01-09T00:39:10Z, Message: error fixes 
