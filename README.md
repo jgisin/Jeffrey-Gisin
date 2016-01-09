@@ -33,3 +33,4 @@ Date: 2016-01-09T00:11:40Z, Message: more error fixes
 Date: 2016-01-09T00:10:26Z, Message: error fix 
 Date: 2016-01-09T00:08:32Z, Message: main tests 
 Date: 2016-01-09T00:02:22Z, Message: fixed error 
+Date: 2016-01-09T00:00:15Z, Message: dictionary test 
