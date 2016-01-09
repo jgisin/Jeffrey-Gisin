@@ -21,3 +21,4 @@ Date: 2016-01-09T01:08:50Z, Message: shell for dice
 Date: 2016-01-09T00:57:54Z, Message: whole suite should pass 
 Date: 2016-01-09T00:54:50Z, Message: further testing 
 Date: 2016-01-09T00:52:36Z, Message: further testing 
+Date: 2016-01-09T00:49:07Z, Message: update for file 
