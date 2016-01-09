@@ -18,3 +18,4 @@ Date: 2016-01-19T17:55:03Z, Message: with units
 Date: 2016-01-19T17:44:48Z, Message: api key probs 
 Date: 2016-01-09T01:12:59Z, Message: files updated 
 Date: 2016-01-09T01:08:50Z, Message: shell for dice 
+Date: 2016-01-09T00:57:54Z, Message: whole suite should pass 
