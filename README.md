@@ -81,3 +81,4 @@ Date: 2016-01-11T22:17:12Z, Message: Change render to baord
 Date: 2016-01-11T22:07:17Z, Message: First Test Render 
 Date: 2016-01-11T19:51:55Z, Message: test suite init 
 Date: 2016-01-11T19:42:16Z, Message: Notes 
+Date: 2016-01-10T06:20:46Z, Message: palindrome recursive and iterative 
