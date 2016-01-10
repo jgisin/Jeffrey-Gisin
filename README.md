@@ -84,3 +84,4 @@ Date: 2016-01-11T19:42:16Z, Message: Notes
 Date: 2016-01-10T06:20:46Z, Message: palindrome recursive and iterative 
 Date: 2016-01-10T05:54:46Z, Message: sumdig recursive and iterative 
 Date: 2016-01-10T05:39:38Z, Message: Iterative Factorial 
+Date: 2016-01-10T05:34:17Z, Message: Recursive Factorial 
