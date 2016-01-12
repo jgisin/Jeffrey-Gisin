@@ -68,3 +68,4 @@ Date: 2016-01-12T23:48:57Z, Message: merge
 Date: 2016-01-12T22:50:38Z, Message: Chris help on reverse 
 Date: 2016-01-12T22:35:15Z, Message: reverse but destructive 
 Date: 2016-01-12T19:03:40Z, Message: added queue 
+Date: 2016-01-12T19:02:38Z, Message: Finished stack, working on queue 
