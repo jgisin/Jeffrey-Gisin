@@ -66,3 +66,4 @@ Date: 2016-01-13T00:23:40Z, Message: last push before scrum
 Date: 2016-01-12T23:49:00Z, Message: Merge branch 'master' of https://github.com/sunsplat/assignment_data_structures 
 Date: 2016-01-12T23:48:57Z, Message: merge 
 Date: 2016-01-12T22:50:38Z, Message: Chris help on reverse 
+Date: 2016-01-12T22:35:15Z, Message: reverse but destructive 
