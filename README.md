@@ -62,3 +62,4 @@ Date: 2016-01-13T20:55:40Z, Message: Adjacency list print function in progress
 Date: 2016-01-13T19:29:06Z, Message: added linked list 
 Date: 2016-01-13T19:02:57Z, Message: adjacency matrix finished 
 Date: 2016-01-13T17:52:49Z, Message: populate  nodes progress 
+Date: 2016-01-13T00:23:40Z, Message: last push before scrum 
