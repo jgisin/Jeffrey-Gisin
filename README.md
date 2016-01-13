@@ -59,3 +59,4 @@ Date: 2016-01-13T23:16:06Z, Message: valid move creator
 Date: 2016-01-13T21:44:39Z, Message: move tree class 
 Date: 2016-01-13T21:40:02Z, Message: completed adj_list 
 Date: 2016-01-13T20:55:40Z, Message: Adjacency list print function in progress 
+Date: 2016-01-13T19:29:06Z, Message: added linked list 
