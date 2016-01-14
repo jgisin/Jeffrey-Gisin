@@ -52,3 +52,4 @@ Date: 2016-01-16T00:30:49Z, Message: Final
 Date: 2016-01-15T01:32:10Z, Message: Completed Pseudocode and DOMTree 
 Date: 2016-01-14T22:44:23Z, Message: HTML reader update 
 Date: 2016-01-14T22:42:48Z, Message: Working on html file reader 
+Date: 2016-01-14T01:56:52Z, Message: As close as we could 
