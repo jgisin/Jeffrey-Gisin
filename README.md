@@ -54,3 +54,4 @@ Date: 2016-01-14T22:44:23Z, Message: HTML reader update
 Date: 2016-01-14T22:42:48Z, Message: Working on html file reader 
 Date: 2016-01-14T01:56:52Z, Message: As close as we could 
 Date: 2016-01-14T01:02:48Z, Message: working dfs and bfs 
+Date: 2016-01-14T00:40:44Z, Message: almost done 
