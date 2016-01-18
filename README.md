@@ -47,3 +47,4 @@ Date: 2016-01-18T22:07:40Z, Message: win workaround
 Date: 2016-01-18T21:49:25Z, Message: company names 
 Date: 2016-01-18T21:34:35Z, Message: web scraper 
 Date: 2016-01-18T18:45:30Z, Message: init commit 
+Date: 2016-01-18T17:03:02Z, Message: Jeffs assessment 
