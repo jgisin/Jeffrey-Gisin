@@ -43,3 +43,4 @@ Date: 2016-01-08T22:41:11Z, Message: added more checks to input
 Date: 2016-01-08T22:37:51Z, Message: added more checks to input 
 Date: 2016-01-19T01:41:05Z, Message: Looks nicer 
 Date: 2016-01-19T00:39:12Z, Message: It works 
+Date: 2016-01-18T22:07:40Z, Message: win workaround 
