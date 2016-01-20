@@ -237,3 +237,4 @@ Date: 2016-01-21T01:06:03Z, Message: app.rb update
 Date: 2016-01-21T01:03:14Z, Message: working on results table 
 Date: 2016-01-20T22:50:41Z, Message: no more crap gem 
 Date: 2016-01-20T19:58:54Z, Message: working on glassdoor api 
+Date: 2016-01-20T19:03:39Z, Message: added web scraper 
