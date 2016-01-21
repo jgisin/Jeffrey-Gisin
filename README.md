@@ -229,3 +229,4 @@ Date: 2016-01-22T01:39:06Z, Message: working other than split
 Date: 2016-01-21T23:30:19Z, Message: working on win conditions 
 Date: 2016-01-21T19:51:48Z, Message: fixed weird deck card issue 
 Date: 2016-01-21T19:02:12Z, Message: working on layout of game 
+Date: 2016-01-21T18:12:12Z, Message: display hand works 
