@@ -225,3 +225,4 @@ Date: 2016-01-23T00:47:20Z, Message: font fix for heroku
 Date: 2016-01-23T00:16:32Z, Message: Heroku setup 
 Date: 2016-01-23T00:12:49Z, Message: Styling 
 Date: 2016-01-22T18:39:30Z, Message: in progress 
+Date: 2016-01-22T01:39:06Z, Message: working other than split 
