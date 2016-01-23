@@ -221,3 +221,4 @@ Date: 2016-01-26T17:35:26Z, Message: init commit
 Date: 2016-01-25T17:01:25Z, Message: Jeff's Assessment 
 Date: 2016-01-23T01:11:52Z, Message: Misc Fixes 
 Date: 2016-01-23T00:50:19Z, Message: no shadow 
+Date: 2016-01-23T00:47:20Z, Message: font fix for heroku 
