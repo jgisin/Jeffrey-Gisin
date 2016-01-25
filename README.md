@@ -158,3 +158,4 @@ Date: 2016-01-25T23:25:03Z, Message: Stole old game
 Date: 2016-01-25T22:59:15Z, Message: merge 
 Date: 2016-01-25T22:52:20Z, Message: Merge branch 'master' of https://github.com/dkackar/assignment_rails_connect4 
 Date: 2016-01-25T22:25:59Z, Message: render some kind of board 
+Date: 2016-01-25T19:38:11Z, Message: working all except delete 
