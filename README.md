@@ -213,3 +213,4 @@ Date: 2016-01-27T00:40:39Z, Message: its done
 Date: 2016-01-26T23:14:40Z, Message: getting ready for heroku 
 Date: 2016-01-26T21:50:23Z, Message: prettify 
 Date: 2016-01-26T20:58:06Z, Message: cleaned up controller 
+Date: 2016-01-26T20:50:23Z, Message: EDIT MODAL 
