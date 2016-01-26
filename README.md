@@ -216,3 +216,4 @@ Date: 2016-01-26T20:58:06Z, Message: cleaned up controller
 Date: 2016-01-26T20:50:23Z, Message: EDIT MODAL 
 Date: 2016-01-26T19:59:34Z, Message: everything but edit modal 
 Date: 2016-01-26T17:55:25Z, Message: setup app 
+Date: 2016-01-26T17:36:27Z, Message: Merge branch 'master' of github.com:jgisin/project_todo_twilio 
