@@ -207,3 +207,4 @@ Date: 2016-01-30T01:57:03Z, Message: answers
 Date: 2016-01-28T00:09:10Z, Message: database not saving 
 Date: 2016-01-27T23:04:10Z, Message: form 
 Date: 2016-01-27T22:20:33Z, Message: more styling 
+Date: 2016-01-27T21:53:14Z, Message: migrations and forms 
