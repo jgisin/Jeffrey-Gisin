@@ -209,3 +209,4 @@ Date: 2016-01-27T23:04:10Z, Message: form
 Date: 2016-01-27T22:20:33Z, Message: more styling 
 Date: 2016-01-27T21:53:14Z, Message: migrations and forms 
 Date: 2016-01-27T03:12:45Z, Message: fixed edit bug 
+Date: 2016-01-27T00:40:39Z, Message: its done 
