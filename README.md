@@ -191,3 +191,4 @@ Date: 2016-02-05T19:24:25Z, Message: Users mostly finished
 Date: 2016-02-04T01:15:52Z, Message: Merge branch 'master' of https://github.com/cadyherron/project_viking_store into julia 
 Date: 2016-02-04T01:15:44Z, Message: merge 
 Date: 2016-02-04T00:57:54Z, Message: merge 
+Date: 2016-02-04T00:49:25Z, Message: merge 
