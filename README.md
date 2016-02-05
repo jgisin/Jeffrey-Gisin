@@ -186,3 +186,4 @@ Date: 2016-02-11T00:21:06Z, Message: sorta functional
 Date: 2016-02-10T23:50:19Z, Message: prepare for heroku 
 Date: 2016-02-10T22:10:52Z, Message: cart progress 
 Date: 2016-02-06T00:55:09Z, Message: Alot done 
+Date: 2016-02-05T19:24:57Z, Message: Users 
