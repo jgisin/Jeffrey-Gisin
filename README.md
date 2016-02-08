@@ -175,3 +175,4 @@ Date: 2016-02-08T22:28:53Z, Message: finished with basic form collections
 Date: 2016-02-08T22:19:25Z, Message: merged 
 Date: 2016-02-08T22:19:00Z, Message: merge 
 Date: 2016-02-08T19:07:07Z, Message: merged, seed fixed 
+Date: 2016-02-08T18:58:54Z, Message: basic forms 
