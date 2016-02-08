@@ -174,3 +174,4 @@ Date: 2016-02-08T23:09:10Z, Message: working nested comment
 Date: 2016-02-08T22:28:53Z, Message: finished with basic form collections 
 Date: 2016-02-08T22:19:25Z, Message: merged 
 Date: 2016-02-08T22:19:00Z, Message: merge 
+Date: 2016-02-08T19:07:07Z, Message: merged, seed fixed 
