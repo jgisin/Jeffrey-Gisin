@@ -183,3 +183,4 @@ Date: 2016-02-05T01:06:22Z, Message: merge
 Date: 2016-02-04T22:43:02Z, Message: merged 
 Date: 2016-02-04T22:42:15Z, Message: merge 
 Date: 2016-02-11T00:21:06Z, Message: sorta functional 
+Date: 2016-02-10T23:50:19Z, Message: prepare for heroku 
