@@ -289,3 +289,4 @@ Date: 2016-03-07T18:19:46Z, Message: working on map
 Date: 2016-03-07T17:50:12Z, Message: conflicts 
 Date: 2016-03-07T17:49:08Z, Message: merge: 
 Date: 2016-03-07T17:09:37Z, Message: first two pass 
+Date: 2016-02-12T17:46:11Z, Message: sign in works 
