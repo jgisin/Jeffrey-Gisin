@@ -148,3 +148,4 @@ Date: 2016-02-26T19:35:54Z, Message: more dep destr
 Date: 2016-02-26T19:32:03Z, Message: follower depend destroy 
 Date: 2016-02-26T19:26:06Z, Message: updated host email address 
 Date: 2016-02-26T19:06:47Z, Message: final commit maybe 
+Date: 2016-02-26T19:06:35Z, Message: Merge branch 'master' of https://github.com/strychemi/pokequiz 
