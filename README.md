@@ -151,3 +151,4 @@ Date: 2016-02-26T19:06:47Z, Message: final commit maybe
 Date: 2016-02-26T19:06:35Z, Message: Merge branch 'master' of https://github.com/strychemi/pokequiz 
 Date: 2016-02-26T18:38:50Z, Message: pics for results 
 Date: 2016-02-26T18:34:48Z, Message: pics on feed 
+Date: 2016-02-26T18:21:54Z, Message: merge 
