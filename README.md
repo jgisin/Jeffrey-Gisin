@@ -285,3 +285,4 @@ Date: 2016-03-08T17:43:41Z, Message: merge
 Date: 2016-03-08T17:34:17Z, Message: first warmups 
 Date: 2016-03-08T01:12:42Z, Message: fixed evens odds 
 Date: 2016-03-08T00:05:08Z, Message: roulette works, needs money and bets logic 
+Date: 2016-03-07T18:19:46Z, Message: working on map 
