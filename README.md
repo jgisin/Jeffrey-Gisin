@@ -278,3 +278,4 @@ Date: 2016-03-08T19:35:56Z, Message: jqeurying
 Date: 2016-03-08T19:15:23Z, Message: fixed constuctor 
 Date: 2016-03-08T18:28:55Z, Message: it works 
 Date: 2016-03-08T18:20:40Z, Message: whats going on 
+Date: 2016-03-08T18:09:13Z, Message: Merge branch 'master' of github.com:thomasjinlo/assignment_build_jquery 
