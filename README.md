@@ -281,3 +281,4 @@ Date: 2016-03-08T18:20:40Z, Message: whats going on
 Date: 2016-03-08T18:09:13Z, Message: Merge branch 'master' of github.com:thomasjinlo/assignment_build_jquery 
 Date: 2016-03-08T18:09:08Z, Message: whoops 
 Date: 2016-03-08T18:08:57Z, Message: whoops 
+Date: 2016-03-08T17:43:41Z, Message: merge 
