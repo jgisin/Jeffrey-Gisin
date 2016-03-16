@@ -244,3 +244,4 @@ Date: 2016-03-17T23:41:09Z, Message: kinda done
 Date: 2016-03-17T22:48:19Z, Message: status works 
 Date: 2016-03-17T20:52:47Z, Message: promises 
 Date: 2016-03-17T16:45:34Z, Message: whats going on 
+Date: 2016-03-16T16:36:24Z, Message: almost there 
