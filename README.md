@@ -241,3 +241,4 @@ Date: 2016-01-20T19:03:39Z, Message: added web scraper
 Date: 2016-01-20T18:29:06Z, Message: rpsD works 
 Date: 2016-03-21T16:40:47Z, Message: works 
 Date: 2016-03-17T23:41:09Z, Message: kinda done 
+Date: 2016-03-17T22:48:19Z, Message: status works 
