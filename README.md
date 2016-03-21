@@ -246,3 +246,4 @@ Date: 2016-03-17T20:52:47Z, Message: promises
 Date: 2016-03-17T16:45:34Z, Message: whats going on 
 Date: 2016-03-16T16:36:24Z, Message: almost there 
 Date: 2016-03-21T16:51:31Z, Message: tetris 
+Date: 2016-03-21T16:50:56Z, Message: readme update 
